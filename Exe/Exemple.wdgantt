@@ -1,0 +1,567 @@
+<?xml version="1.0"?>
+<DOCUMENT xmlns:SOAP_ENC="http://schemas.xmlsoap.org/soap/encoding/">
+	<STDiagrammeGantt id="id0">
+		<tabListeTâches SOAP_ENC:arrayType="tabListeTâches[21]">
+			<item href="#id1"/>
+			<item href="#id2"/>
+			<item href="#id3"/>
+			<item href="#id4"/>
+			<item href="#id5"/>
+			<item href="#id6"/>
+			<item href="#id7"/>
+			<item href="#id8"/>
+			<item href="#id9"/>
+			<item href="#id10"/>
+			<item href="#id11"/>
+			<item href="#id12"/>
+			<item href="#id13"/>
+			<item href="#id14"/>
+			<item href="#id15"/>
+			<item href="#id16"/>
+			<item href="#id17"/>
+			<item href="#id18"/>
+			<item href="#id19"/>
+			<item href="#id20"/>
+			<item href="#id21"/>
+		</tabListeTâches>
+		<tabListeLiens SOAP_ENC:arrayType="tabListeLiens[16]">
+			<item href="#id22"/>
+			<item href="#id23"/>
+			<item href="#id24"/>
+			<item href="#id25"/>
+			<item href="#id26"/>
+			<item href="#id27"/>
+			<item href="#id28"/>
+			<item href="#id29"/>
+			<item href="#id30"/>
+			<item href="#id31"/>
+			<item href="#id32"/>
+			<item href="#id33"/>
+			<item href="#id34"/>
+			<item href="#id35"/>
+			<item href="#id36"/>
+			<item href="#id37"/>
+		</tabListeLiens>
+	</STDiagrammeGantt>
+	<STInfosTâcheGantt id="id1">
+		<sIDTâche>{b9aceacf-b071-4686-b790-302b8182c62c}</sIDTâche>
+		<nIndiceParent>0</nIndiceParent>
+		<Tâche href="#id38"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id2">
+		<sIDTâche>{261b7398-1b11-46b5-9f1e-4a7f2b24cc8b}</sIDTâche>
+		<nIndiceParent>1</nIndiceParent>
+		<Tâche href="#id39"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id3">
+		<sIDTâche>{e00245cf-5923-48f5-b170-d271c7124484}</sIDTâche>
+		<nIndiceParent>1</nIndiceParent>
+		<Tâche href="#id40"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id4">
+		<sIDTâche>{8776014f-1bd8-4787-b4c1-7ac0ca159e1a}</sIDTâche>
+		<nIndiceParent>3</nIndiceParent>
+		<Tâche href="#id41"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id5">
+		<sIDTâche>{724c974e-bf85-4004-8b3c-8cfebbb8f4c1}</sIDTâche>
+		<nIndiceParent>3</nIndiceParent>
+		<Tâche href="#id42"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id6">
+		<sIDTâche>{e19678e6-445c-4d47-9d00-24a0091dca1b}</sIDTâche>
+		<nIndiceParent>1</nIndiceParent>
+		<Tâche href="#id43"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id7">
+		<sIDTâche>{7364d901-7ac0-487c-849d-c0114bf154a2}</sIDTâche>
+		<nIndiceParent>6</nIndiceParent>
+		<Tâche href="#id44"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id8">
+		<sIDTâche>{d519b46f-684f-4088-a410-500a63078dd1}</sIDTâche>
+		<nIndiceParent>6</nIndiceParent>
+		<Tâche href="#id45"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id9">
+		<sIDTâche>{3f0691a5-44bf-434c-83fe-a478c604f633}</sIDTâche>
+		<nIndiceParent>1</nIndiceParent>
+		<Tâche href="#id46"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id10">
+		<sIDTâche>{81d16558-9dbb-4ee8-8098-9ea3a73fc53f}</sIDTâche>
+		<nIndiceParent>9</nIndiceParent>
+		<Tâche href="#id47"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id11">
+		<sIDTâche>{530e696b-652d-484a-b55f-90d03f8529b1}</sIDTâche>
+		<nIndiceParent>9</nIndiceParent>
+		<Tâche href="#id48"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id12">
+		<sIDTâche>{ad735d8c-0b57-4411-b0a5-6bde937173cb}</sIDTâche>
+		<nIndiceParent>9</nIndiceParent>
+		<Tâche href="#id49"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id13">
+		<sIDTâche>{bf3d1ee1-981a-4e47-85c2-476d8c0e64e8}</sIDTâche>
+		<nIndiceParent>9</nIndiceParent>
+		<Tâche href="#id50"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id14">
+		<sIDTâche>{19228827-f631-400f-a760-5153dde0e54f}</sIDTâche>
+		<nIndiceParent>1</nIndiceParent>
+		<Tâche href="#id51"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id15">
+		<sIDTâche>{c6e9f2c9-c018-45ad-92ef-12ea8d821383}</sIDTâche>
+		<nIndiceParent>14</nIndiceParent>
+		<Tâche href="#id52"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id16">
+		<sIDTâche>{457acfbb-2e85-4f6e-99ff-67d99e04f1c0}</sIDTâche>
+		<nIndiceParent>14</nIndiceParent>
+		<Tâche href="#id53"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id17">
+		<sIDTâche>{1d0ca3b9-48d6-4e44-8e9d-78008f0fe5db}</sIDTâche>
+		<nIndiceParent>14</nIndiceParent>
+		<Tâche href="#id54"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id18">
+		<sIDTâche>{fa9d922b-d160-4f2f-a029-b09b92d55ebd}</sIDTâche>
+		<nIndiceParent>14</nIndiceParent>
+		<Tâche href="#id55"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id19">
+		<sIDTâche>{342519c1-22a0-4744-98bc-c4f5461ca74a}</sIDTâche>
+		<nIndiceParent>1</nIndiceParent>
+		<Tâche href="#id56"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id20">
+		<sIDTâche>{3af3f887-5986-406d-85f6-e73b59665030}</sIDTâche>
+		<nIndiceParent>19</nIndiceParent>
+		<Tâche href="#id57"/>
+	</STInfosTâcheGantt>
+	<STInfosTâcheGantt id="id21">
+		<sIDTâche>{4edb77f9-86cc-47a3-a784-c48c8fdefb6b}</sIDTâche>
+		<nIndiceParent>1</nIndiceParent>
+		<Tâche href="#id58"/>
+	</STInfosTâcheGantt>
+	<LienGantt id="id22">
+		<IDSource>{457acfbb-2e85-4f6e-99ff-67d99e04f1c0}</IDSource>
+		<IDDestination>{1d0ca3b9-48d6-4e44-8e9d-78008f0fe5db}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id23">
+		<IDSource>{c6e9f2c9-c018-45ad-92ef-12ea8d821383}</IDSource>
+		<IDDestination>{1d0ca3b9-48d6-4e44-8e9d-78008f0fe5db}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id24">
+		<IDSource>{1d0ca3b9-48d6-4e44-8e9d-78008f0fe5db}</IDSource>
+		<IDDestination>{3af3f887-5986-406d-85f6-e73b59665030}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id25">
+		<IDSource>{bf3d1ee1-981a-4e47-85c2-476d8c0e64e8}</IDSource>
+		<IDDestination>{3af3f887-5986-406d-85f6-e73b59665030}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id26">
+		<IDSource>{c6e9f2c9-c018-45ad-92ef-12ea8d821383}</IDSource>
+		<IDDestination>{457acfbb-2e85-4f6e-99ff-67d99e04f1c0}</IDDestination>
+		<Type>1</Type>
+	</LienGantt>
+	<LienGantt id="id27">
+		<IDSource>{3af3f887-5986-406d-85f6-e73b59665030}</IDSource>
+		<IDDestination>{4edb77f9-86cc-47a3-a784-c48c8fdefb6b}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id28">
+		<IDSource>{d519b46f-684f-4088-a410-500a63078dd1}</IDSource>
+		<IDDestination>{530e696b-652d-484a-b55f-90d03f8529b1}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id29">
+		<IDSource>{8776014f-1bd8-4787-b4c1-7ac0ca159e1a}</IDSource>
+		<IDDestination>{724c974e-bf85-4004-8b3c-8cfebbb8f4c1}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id30">
+		<IDSource>{724c974e-bf85-4004-8b3c-8cfebbb8f4c1}</IDSource>
+		<IDDestination>{7364d901-7ac0-487c-849d-c0114bf154a2}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id31">
+		<IDSource>{d519b46f-684f-4088-a410-500a63078dd1}</IDSource>
+		<IDDestination>{81d16558-9dbb-4ee8-8098-9ea3a73fc53f}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id32">
+		<IDSource>{261b7398-1b11-46b5-9f1e-4a7f2b24cc8b}</IDSource>
+		<IDDestination>{8776014f-1bd8-4787-b4c1-7ac0ca159e1a}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id33">
+		<IDSource>{530e696b-652d-484a-b55f-90d03f8529b1}</IDSource>
+		<IDDestination>{ad735d8c-0b57-4411-b0a5-6bde937173cb}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id34">
+		<IDSource>{81d16558-9dbb-4ee8-8098-9ea3a73fc53f}</IDSource>
+		<IDDestination>{ad735d8c-0b57-4411-b0a5-6bde937173cb}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id35">
+		<IDSource>{ad735d8c-0b57-4411-b0a5-6bde937173cb}</IDSource>
+		<IDDestination>{bf3d1ee1-981a-4e47-85c2-476d8c0e64e8}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id36">
+		<IDSource>{7364d901-7ac0-487c-849d-c0114bf154a2}</IDSource>
+		<IDDestination>{d519b46f-684f-4088-a410-500a63078dd1}</IDDestination>
+		<Type>0</Type>
+	</LienGantt>
+	<LienGantt id="id37">
+		<IDSource>{1d0ca3b9-48d6-4e44-8e9d-78008f0fe5db}</IDSource>
+		<IDDestination>{fa9d922b-d160-4f2f-a029-b09b92d55ebd}</IDDestination>
+		<Type>2</Type>
+	</LienGantt>
+	<TacheGantt id="id38">
+		<ID>{b9aceacf-b071-4686-b790-302b8182c62c}</ID>
+		<Titre>Projet</Titre>
+		<CouleurFond>7566195</CouleurFond>
+		<DateDebut>2022-11-19T08:00:00</DateDebut>
+		<DureeEnHeure type="double">504</DureeEnHeure>
+		<Ligne>1</Ligne>
+		<Avancement>38</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">21</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>1</Cumulative>
+		<CouleurAvancement>7566195</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id39">
+		<ID>{261b7398-1b11-46b5-9f1e-4a7f2b24cc8b}</ID>
+		<Titre>Jalon initial</Titre>
+		<CouleurFond>14786842</CouleurFond>
+		<DateDebut>2022-11-21T08:00:00</DateDebut>
+		<DureeEnHeure type="double">24</DureeEnHeure>
+		<Ligne>2</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">1</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>1</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>14786842</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id40">
+		<ID>{e00245cf-5923-48f5-b170-d271c7124484}</ID>
+		<Titre>Phase 1</Titre>
+		<CouleurFond>7566195</CouleurFond>
+		<DateDebut>2022-11-21T08:00:00</DateDebut>
+		<DureeEnHeure type="double">216</DureeEnHeure>
+		<Ligne>3</Ligne>
+		<Avancement>90</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">9</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>1</Cumulative>
+		<CouleurAvancement>7566195</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id41">
+		<ID>{8776014f-1bd8-4787-b4c1-7ac0ca159e1a}</ID>
+		<Titre>Tâche 1</Titre>
+		<CouleurFond>4411598</CouleurFond>
+		<DateDebut>2022-11-21T08:00:00</DateDebut>
+		<DureeEnHeure type="double">72</DureeEnHeure>
+		<Ligne>4</Ligne>
+		<Avancement>100</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">3</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>3393715</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id42">
+		<ID>{724c974e-bf85-4004-8b3c-8cfebbb8f4c1}</ID>
+		<Titre>Tâche 2</Titre>
+		<CouleurFond>4411598</CouleurFond>
+		<DateDebut>2022-11-24T08:00:00</DateDebut>
+		<DureeEnHeure type="double">144</DureeEnHeure>
+		<Ligne>5</Ligne>
+		<Avancement>80</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">6</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>3393715</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id43">
+		<ID>{e19678e6-445c-4d47-9d00-24a0091dca1b}</ID>
+		<Titre>Phase 2</Titre>
+		<CouleurFond>7566195</CouleurFond>
+		<DateDebut>2022-12-02T08:00:00</DateDebut>
+		<DureeEnHeure type="double">72</DureeEnHeure>
+		<Ligne>6</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">3</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>1</Cumulative>
+		<CouleurAvancement>7566195</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id44">
+		<ID>{7364d901-7ac0-487c-849d-c0114bf154a2}</ID>
+		<Titre>Tâche 3</Titre>
+		<CouleurFond>4411598</CouleurFond>
+		<DateDebut>2022-12-02T08:00:00</DateDebut>
+		<DureeEnHeure type="double">72</DureeEnHeure>
+		<Ligne>7</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">3</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>3393715</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id45">
+		<ID>{d519b46f-684f-4088-a410-500a63078dd1}</ID>
+		<Titre>Jalon A</Titre>
+		<CouleurFond>14786842</CouleurFond>
+		<DateDebut>2022-12-07T08:00:00</DateDebut>
+		<DureeEnHeure type="double">24</DureeEnHeure>
+		<Ligne>8</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">1</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>1</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>14786842</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id46">
+		<ID>{3f0691a5-44bf-434c-83fe-a478c604f633}</ID>
+		<Titre>Phase 3</Titre>
+		<CouleurFond>7566195</CouleurFond>
+		<DateDebut>2022-12-07T08:00:00</DateDebut>
+		<DureeEnHeure type="double">120</DureeEnHeure>
+		<Ligne>9</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">5</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>1</Cumulative>
+		<CouleurAvancement>7566195</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id47">
+		<ID>{81d16558-9dbb-4ee8-8098-9ea3a73fc53f}</ID>
+		<Titre>Tâche 4</Titre>
+		<CouleurFond>4411598</CouleurFond>
+		<DateDebut>2022-12-07T08:00:00</DateDebut>
+		<DureeEnHeure type="double">72</DureeEnHeure>
+		<Ligne>10</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">3</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>3393715</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id48">
+		<ID>{530e696b-652d-484a-b55f-90d03f8529b1}</ID>
+		<Titre>Tâche 5</Titre>
+		<CouleurFond>4411598</CouleurFond>
+		<DateDebut>2022-12-07T08:00:00</DateDebut>
+		<DureeEnHeure type="double">96</DureeEnHeure>
+		<Ligne>11</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">4</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>3393715</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id49">
+		<ID>{ad735d8c-0b57-4411-b0a5-6bde937173cb}</ID>
+		<Titre>Tâche 6</Titre>
+		<CouleurFond>4411598</CouleurFond>
+		<DateDebut>2022-12-13T08:00:00</DateDebut>
+		<DureeEnHeure type="double">24</DureeEnHeure>
+		<Ligne>12</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">1</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>3393715</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id50">
+		<ID>{bf3d1ee1-981a-4e47-85c2-476d8c0e64e8}</ID>
+		<Titre>Jalon B</Titre>
+		<CouleurFond>14786842</CouleurFond>
+		<DateDebut>2022-12-14T08:00:00</DateDebut>
+		<DureeEnHeure type="double">24</DureeEnHeure>
+		<Ligne>13</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">1</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>1</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>14786842</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id51">
+		<ID>{19228827-f631-400f-a760-5153dde0e54f}</ID>
+		<Titre>Phase 1.2</Titre>
+		<CouleurFond>7566195</CouleurFond>
+		<DateDebut>2022-11-23T08:00:00</DateDebut>
+		<DureeEnHeure type="double">168</DureeEnHeure>
+		<Ligne>14</Ligne>
+		<Avancement>100</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">7</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>1</Cumulative>
+		<CouleurAvancement>7566195</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id52">
+		<ID>{c6e9f2c9-c018-45ad-92ef-12ea8d821383}</ID>
+		<Titre>Tâche 7</Titre>
+		<CouleurFond>4411598</CouleurFond>
+		<DateDebut>2022-11-23T08:00:00</DateDebut>
+		<DureeEnHeure type="double">48</DureeEnHeure>
+		<Ligne>15</Ligne>
+		<Avancement>100</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">2</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>3393715</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id53">
+		<ID>{457acfbb-2e85-4f6e-99ff-67d99e04f1c0}</ID>
+		<Titre>Tâche 8</Titre>
+		<CouleurFond>4411598</CouleurFond>
+		<DateDebut>2022-11-23T08:00:00</DateDebut>
+		<DureeEnHeure type="double">72</DureeEnHeure>
+		<Ligne>16</Ligne>
+		<Avancement>100</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">3</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>3393715</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id54">
+		<ID>{1d0ca3b9-48d6-4e44-8e9d-78008f0fe5db}</ID>
+		<Titre>Tâche 9</Titre>
+		<CouleurFond>4411598</CouleurFond>
+		<DateDebut>2022-11-28T08:00:00</DateDebut>
+		<DureeEnHeure type="double">96</DureeEnHeure>
+		<Ligne>17</Ligne>
+		<Avancement>100</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">4</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>3393715</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id55">
+		<ID>{fa9d922b-d160-4f2f-a029-b09b92d55ebd}</ID>
+		<Titre>Tâche 10</Titre>
+		<CouleurFond>4411598</CouleurFond>
+		<DateDebut>2022-11-30T00:00:00</DateDebut>
+		<DureeEnHeure type="double">48</DureeEnHeure>
+		<Ligne>18</Ligne>
+		<Avancement>100</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">2</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>3393715</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id56">
+		<ID>{342519c1-22a0-4744-98bc-c4f5461ca74a}</ID>
+		<Titre>Phase 4</Titre>
+		<CouleurFond>7566195</CouleurFond>
+		<DateDebut>2022-12-14T08:00:00</DateDebut>
+		<DureeEnHeure type="double">96</DureeEnHeure>
+		<Ligne>19</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">4</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>1</Cumulative>
+		<CouleurAvancement>7566195</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id57">
+		<ID>{3af3f887-5986-406d-85f6-e73b59665030}</ID>
+		<Titre>Tâche 11</Titre>
+		<CouleurFond>4411598</CouleurFond>
+		<DateDebut>2022-12-14T08:00:00</DateDebut>
+		<DureeEnHeure type="double">96</DureeEnHeure>
+		<Ligne>20</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">4</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>0</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>3393715</CouleurAvancement>
+	</TacheGantt>
+	<TacheGantt id="id58">
+		<ID>{4edb77f9-86cc-47a3-a784-c48c8fdefb6b}</ID>
+		<Titre>Jalon final</Titre>
+		<CouleurFond>14786842</CouleurFond>
+		<DateDebut>2022-12-20T08:00:00</DateDebut>
+		<DureeEnHeure type="double">24</DureeEnHeure>
+		<Ligne>21</Ligne>
+		<Avancement>0</Avancement>
+		<Responsable></Responsable>
+		<DureeEnJour type="double">1</DureeEnJour>
+		<Bulle></Bulle>
+
+		<Jalon>1</Jalon>
+		<Cumulative>0</Cumulative>
+		<CouleurAvancement>14786842</CouleurAvancement>
+	</TacheGantt>
+</DOCUMENT>

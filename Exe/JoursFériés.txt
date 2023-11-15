@@ -1,0 +1,19 @@
+; Ce fichier définit les jours fériés à prendre en compte dans le diagramme de Gantt
+; <Libellé en clair> : <Format>
+; Le <Format> peut correspondre à :
+; - une date sur 4 chiffres (au format MMJJ) pour définir un jour férié qui revient chaque année à date fixe (par exemple "1225" pour Noël).
+; - une date sur 8 chiffres (au format AAAAMMJJ) pour définir un jour férié pour une année spécifique (par exemple "20080808" pour le 8 août 2008).
+; - une date au format <Mois>_<Numéro de semaine>_<Numéro de jour dans la semaine>. Par exemple : 11_2_3 pour le 2ème Mercredi de Novembre.
+; - une des constantes du WLangage (valeur @X)
+
+1er Janvier : 0101
+Lundi de Pâques : @5
+1er Mai : 0501
+8 Mai : 0508
+Jeudi de l'Ascension : @2
+Lundi de Pentecôte : @3
+14 Juillet : 0714
+15 Août (Assomption) : 0815
+Toussaint : 1101
+11 Novembre : 1111
+Noël : 1225
